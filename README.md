@@ -28,3 +28,39 @@ Python provides built-in data types to store and manipulate different kinds of d
         None (NoneType): Represents the absence of a value or a null value.
 
 These data types can be used to create complex data structures and solve various programming problems efficiently. Python also allows for type conversion and provides functions and methods to work with these data types effectively.
+
+<h3>Basic Data Structure</h3>
+Basic data structures in Python are essential for organizing and storing data efficiently. Here's a summary of some of the fundamental data structures:
+
+    Lists:
+        Ordered collection of items.
+        Mutable (can be modified).
+        Created using square brackets [].
+        Example: my_list = [1, 2, 3, 'hello'].
+
+    Tuples:
+        Ordered collection of items.
+        Immutable (cannot be modified).
+        Created using parentheses ().
+        Example: my_tuple = (1, 2, 3, 'hello').
+
+    Dictionaries:
+        Collection of key-value pairs.
+        Unordered (order of items is not guaranteed).
+        Mutable.
+        Created using curly braces {}.
+        Example: my_dict = {'name': 'John', 'age': 30, 'city': 'New York'}.
+
+    Sets:
+        Unordered collection of unique items.
+        Mutable (can be modified).
+        Created using curly braces {} or the set() constructor.
+        Example: my_set = {1, 2, 3, 4}.
+
+    Strings:
+        Ordered collection of characters.
+        Immutable.
+        Created using single (') or double (") quotes.
+        Example: my_string = "Hello, World!".
+
+These basic data structures can be combined and nested to create more complex data structures to suit various programming needs. Python also provides built-in functions and methods to manipulate and operate on these data structures efficiently.
