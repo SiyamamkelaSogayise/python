@@ -95,7 +95,10 @@ Basic data structures in Python are essential for organizing and storing data ef
 
 
 
-    <h3>Basic Control Flow</h3>
+These basic data structures can be combined and nested to create more complex data structures to suit various programming needs. Python also provides built-in functions and methods to manipulate and operate on these data structures efficiently.
+
+
+<h3>Basic Control Flow</h3>
     Basic control flow in Python refers to the structures used to control the execution flow of a program. Here's a summary:
 
     Conditional Statements (if-elif-else):
@@ -177,5 +180,3 @@ python
             {expression for item in iterable if condition}
 
 Understanding and effectively utilizing these control flow structures is essential for writing clear, concise, and efficient Python code.
-
-These basic data structures can be combined and nested to create more complex data structures to suit various programming needs. Python also provides built-in functions and methods to manipulate and operate on these data structures efficiently.
