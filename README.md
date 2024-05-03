@@ -48,7 +48,7 @@ Python provides built-in data types to store and manipulate different kinds of d
         Dictionaries (dict): Collection of key-value pairs, unordered, mutable.
 
     Set Types:
-        Sets (set): Unordered collection of unique items, mutable.
+        Sets (set): Unordered collection of unique items, immutable.
         Frozen sets (frozenset): Immutable sets.
 
     Boolean Type:
@@ -83,7 +83,7 @@ Basic data structures in Python are essential for organizing and storing data ef
 
     Sets:
         Unordered collection of unique items.
-        Mutable (can be modified).
+        Immutable (cannot be modified).
         Created using curly braces {} or the set() constructor.
         Example: my_set = {1, 2, 3, 4}.
 
